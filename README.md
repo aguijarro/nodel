@@ -5,6 +5,7 @@
   * AWS Aurora MySql
   * AWS Glue Studio
   * AWS SageMaker
+  * AWS QuickSight
 - Este repositorio hace referencia al código generado en dichas herramientas. 
 - No contiene un script de ejecución.
 - El mantenimiento de dicho código se lo debe realizar en las mismas herramientas.
@@ -27,5 +28,8 @@
 
 
 ### Presentation
+- En el siguiente link encontrará la presentación de este proyecto:
+  * https://docs.google.com/presentation/d/1iteX7ojJ4yMGjC8q9fIpek2LUv8mjf_z1h3KYDcDlaQ/edit?usp=sharing
 
 ### Plots
+- Los gráficos realizados en QuickSight podrán  ser visualizados en la misma herramienta o en la presentación descrita en el punto anterior.
